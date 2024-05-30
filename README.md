@@ -36,7 +36,8 @@ Dataset terdapat 1500 baris dan 2 kolom.
 - "Salary" yaitu total gaji karyawan per tahun dalam kurs dollar.
 
 ## Exploratory Data Analysis - Univariate Analysis
-![unvariate](https://drive.google.com/uc?export=view&id=1wXTyVQh10Vh9CloSnSYoPSufizITg7Sp)
+![eda-unvariate](https://github.com/lusiana02/ML-Predictive-Analytics-Year-of-Experience-And-Employees-Salary/assets/123287899/5494bd80-1bf5-4253-9a19-f082e57f51d2)
+
 
 Dari hasil visualisasi di atas dapat disimpulkan bahwa:
 - Sebagian besar sampel Years of experience berada di kisaran 8-14 tahun.
